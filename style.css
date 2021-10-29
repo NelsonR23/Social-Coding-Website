@@ -4,7 +4,7 @@
     font-family: 'Eczar', serif;
 }
 .header{
-    min-height: 100vh;
+    min-height: 8vh;
     width: 100%;
     background-color: #FFFFFF;
     background-position: center;
@@ -51,4 +51,32 @@ nav{
 
 .nav-links ul li:hover::after{
     width: 100%;
+}
+
+.banner{
+    background-color: #393E46;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    min-height: 471px;
+    width: 100%;
+}
+
+.logo{
+    position: relative;
+    align-items: center;
+    left: calc(50% - 300px/2 - 2.5px);
+    top: 20px;
+}
+
+.discord{
+    position: absolute;
+    left: 300px;
+    top: 350px;
+}
+
+.mail{
+    position: absolute;
+    left: 810px;
+    top: 349px;
 }
