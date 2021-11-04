@@ -62,20 +62,20 @@ nav{
     width: 100%;
 }
 
-.logo{
-    position: relative;
+.logo{ /* 314px x 314px */
+    position: relative; 
     align-items: center;
     left: calc(50% - 300px/2 - 2.5px);
     top: 20px;
 }
 
-.discord{
+.discord{ /* 419px x 58px */
     position: absolute;
     left: 300px;
     top: 350px;
 }
 
-.mail{
+.mail{ /* 455px x 58px */
     position: absolute;
     left: 810px;
     top: 349px;
@@ -84,6 +84,8 @@ nav{
 .body{
     width:100%;
     height:fit-content;
+    padding-left: 10%;
+    padding-right: 5%;
     background-color: #FFFFFF;
     background-position: center;
     background-size: cover;
