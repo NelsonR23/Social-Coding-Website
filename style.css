@@ -80,3 +80,12 @@ nav{
     left: 810px;
     top: 349px;
 }
+
+.body{
+    width:100%;
+    height:fit-content;
+    background-color: #FFFFFF;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
