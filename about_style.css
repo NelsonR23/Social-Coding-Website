@@ -62,33 +62,54 @@ nav{
     width: 100%;
 }
 
-.logo{ /* 314px x 314px */
+.logo{
     position: relative;
     align-items: center;
     left: calc(50% - 300px/2 - 2.5px);
     top: 20px;
 }
 
-.discord{ /* 419px x 58px */
-    position: absolute;
-    left: 230px;
-    top: 350px;
-}
-
-.mail{ /* 455px x 58px */
-    position: absolute;
-    left: 700px;
-    top: 349px;
-}
-
-.body{
-    width:100%;
-    height:fit-content;
-    padding-top: 50px;
-    padding-left: 10%;
-    padding-right: 5%;
-    background-color: #FFFFFF;
-    background-position: center;
-    background-size: cover;
+.title{
+    margin: auto;
     position: relative;
+    width: 185px;
+    height: 112px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 65px;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 25px;
+}
+.text{
+    position: relative;
+    width: 583px;
+    height: 445px;
+    left: 130px;
+    top: 26px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 41px;
+
+    color: #000000;
+}
+.text2{
+    position: relative;
+    width: 1210px;
+    height: 184px;
+    left: 130px;
+    top: 471px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 41px;
+
+    color: #000000;
 }
