@@ -84,6 +84,7 @@ nav{
 .body{
     width:100%;
     height:fit-content;
+    padding-top: 50px;
     padding-left: 10%;
     padding-right: 5%;
     background-color: #FFFFFF;
