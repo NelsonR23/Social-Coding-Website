@@ -19,14 +19,24 @@
     text-align: center;
 }
 
-h1{
-  color: white;
+h1 {
+  color: black;
   font-family: 'Open Sans', sans-serif;
   font-size: 50px;
+  text-align: center;
 }
 
 h7{
   color: white;
   font-family: 'Open Sans', sans-serif;
   font-size: 20px;
+}
+
+col_left{
+  width:50%;
+  float:left;
+}
+col_right{
+  width:50%;
+  float:right;
 }
