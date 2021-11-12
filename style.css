@@ -71,18 +71,38 @@ nav{
 
 .discord{ /* 419px x 58px */
     position: absolute;
-    left: 230px;
-    top: 350px;
+    right: 52%;    
+    top: 74%;
+    max-width: 100%;
+    width: auto;
+    height: auto;
+    padding-left: 2.5%;
 }
 
 .mail{ /* 455px x 58px */
     position: absolute;
-    left: 700px;
-    top: 349px;
+    left: 52%;
+    top: 74%;
+    max-width: 100%;
+    width: auto;
+    height: auto;
+    padding-right: 2.5%;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+    width: auto\9;
+}
+
+iframe{
+    max-width: 100%;
+    /* height: auto; */
+    width: auto\9;
 }
 
 .body{
-    width:100%;
+    width:80%;
     height:fit-content;
     padding-top: 50px;
     padding-left: 10%;
