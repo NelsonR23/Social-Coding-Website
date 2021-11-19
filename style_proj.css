@@ -19,6 +19,21 @@
     text-align: center;
 }
 
+.title{
+  margin: auto;
+  position: relative;
+  width: auto;
+  height: 112px;
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 65px;
+  text-align: center;
+  color: #FFFFFF;
+  padding-top: 25px;
+}
+
 h1 {
   color: black;
   font-family: 'Open Sans', sans-serif;
