@@ -6,6 +6,7 @@
 .proj_row {
     width: 90%;
     height: 300px;
+    background-color: #FFFFFF;
 }
 .proj_col {
     width: 150px;
@@ -50,8 +51,10 @@ h7{
 col_left{
   width:50%;
   float:left;
+  background-color: white;
 }
 col_right{
   width:50%;
   float:right;
+  background-color: white;
 }
