@@ -103,7 +103,7 @@ iframe{
 
 .body{
   width:100%;
-  height: 1250px;
+  height: auto;
   padding-top: 50px;
   padding-left: 10%;
   padding-right: 10%;
@@ -187,6 +187,7 @@ font-size: 20px;
 .footer-basic {
   padding:40px 0;
   background-color:#222831;
+  height: auto;
   color:#FFFFFF;
 }
 
