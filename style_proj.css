@@ -3,6 +3,18 @@
     height: 500;
     background-color: antiquewhite;
 }
+.project-list{
+  width:100%;
+  height:fit-content;
+  padding-bottom: 1%;
+  padding-left: 10%;
+  padding-right: 10%;
+  background-color: #FFFFFF;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+}
+
 .proj_row {
     width: 90%;
     height: 300px;
