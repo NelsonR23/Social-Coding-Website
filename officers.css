@@ -104,9 +104,10 @@ iframe{
 .body{
   width:100%;
   height: auto;
-  padding-top: 50px;
+  padding-top: 3%;
   padding-left: 10%;
   padding-right: 10%;
+  padding-bottom: 3%;
   background-color: #FFFFFF;
   background-position: center;
   background-size: cover;
